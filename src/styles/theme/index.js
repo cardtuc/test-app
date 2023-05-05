@@ -1,0 +1,3 @@
+const themeOptions = {};
+
+export { themeOptions };
